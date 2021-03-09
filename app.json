@@ -1,0 +1,26 @@
+{
+  "id": "39d7c469-f93a-4030-a480-eb4404f0acec",
+  "name": "Anomaly Detector",
+  "publisher": "MSN Raju",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://AnomalyDetector.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
